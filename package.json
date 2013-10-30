@@ -25,7 +25,10 @@
   },
   "devDependencies": {
     "coffee-script": "~1.6.3",
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.1",
+    "coffeelint": "~0.6.1",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-coffeelint": "0.0.7"
   },
   "dependencies": {
     "d3": "~3.3.9"
