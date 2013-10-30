@@ -1,0 +1,33 @@
+{
+  "name": "cru.d3",
+  "version": "0.0.0",
+  "description": "a CoffeeScript d3 dialect",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bollwyvl/cru.d3.git"
+  },
+  "keywords": [
+    "visualization",
+    "d3",
+    "JSON-LD",
+    "WebHooks",
+    "RestHooks",
+    "hooks"
+  ],
+  "author": "Nicholas Bollweg",
+  "license": "http://opensource.org/licenses/GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bollwyvl/cru.d3/issues"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "grunt": "~0.4.1"
+  },
+  "dependencies": {
+    "d3": "~3.3.9"
+  }
+}
